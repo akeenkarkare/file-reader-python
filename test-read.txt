@@ -1,0 +1,5 @@
+Monday,8am,Maths
+Tuesday,9am,Science
+Wednesday,10am,English
+Thursday,11am,Social-Studies
+Friday,12pm,Marathi
